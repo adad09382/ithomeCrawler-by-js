@@ -44,7 +44,7 @@ $node ithomeCrawler.js
 
 執行程式後會開啟一個新的 Google Chrome 視窗，並一頁一頁爬下文章 Tittle + Link
 
-![img]()
+![img](https://github.com/adad09382/ithomeCrawler-by-js-/blob/master/README-coderunning.gif)
 
 執行程式完畢後會生成 Excel 檔，裡面儲存剛扒下來的文章 Tittle + Link  
-![img]()
+![img](https://github.com/adad09382/ithomeCrawler-by-js-/blob/master/README-excel.gif)
